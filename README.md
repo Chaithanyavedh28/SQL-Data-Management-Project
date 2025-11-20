@@ -1,4 +1,4 @@
-# SQL-Data-Management-Project
+
 # SQL Data Management Project
 
 This project demonstrates the application of SQL to design and implement a structured data solution that supports efficient storage, retrieval, and analysis of operational data.
